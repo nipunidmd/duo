@@ -6,7 +6,7 @@
 	    <meta charset="utf-8">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 
-	    <title>Home | Design Duo</title>  
+	    <title>Projcet Detail | Design Duo</title>  
 
 	    <meta name="keywords" content="HTML5 Template" />
 	    <meta name="description" content="Duo - Design Duo">
@@ -128,13 +128,13 @@
 											<h1 class="text-dark font-weight-bold text-9 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">{{$project->name}} - {{$project->location}}</h2>
 										</div>
 									</div>
-									<div class="col-md-12 align-self-center order-1">
+									{{-- <div class="col-md-12 align-self-center order-1">
 										<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
 											<li><a href="#">Home</a></li>
 											<li><a href="#">Portfolio</a></li>
 											<li class="active">Small Slider</li>
 										</ul>
-									</div>
+									</div> --}}
 								</div>
 							</div>
 
@@ -167,7 +167,7 @@
 				<div class="container pt-2 pb-4">
 
 					<div class="row pb-4 mb-2">
-						<div class="col-md-12 mb-4 mb-md-0 appear-animation" style="padding: 0px 200px 0px 200px;" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
+						<div class="col-md-8 col-sm-12 mb-4 mb-md-0 appear-animation project-padding mx-auto"  data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
 
 							<div class="owl-carousel owl-theme nav-inside nav-inside-edge nav-squared nav-with-transparency nav-dark mt-3" data-plugin-options="{'items': 1,'autoplay': true, 'autoplayTimeout': 4000, 'margin': 10, 'loop': true, 'nav': true, 'dots': false}">
 
