@@ -18,175 +18,175 @@
 			<div class="thumb-gallery">
 				<div class="owl-carousel owl-theme manual thumb-gallery-detail" id="thumbGalleryDetail">
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/1.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/2.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/3.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/4.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/5.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/6.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/7.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/8.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/9.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/10.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/11.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/12.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/13.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/14.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/15.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/16.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/17.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/18.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/19.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/20.jpg')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/21.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/22.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/23.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/24.JPG')}}" class="img-fluid">
 							</span>
 						</a>
 					</div>
 					<div>
-						<a href="project.php">
+						<a href="{{route('project')}}">
 							<span class="img-thumbnail d-block">
 								<img alt="" src="{{ asset('assets/img/duo_images/gallery/25.JPG')}}" class="img-fluid">
 							</span>

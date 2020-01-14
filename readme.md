@@ -1,4 +1,4 @@
-# Sense Laravel Starter
+# Laravel Starter
 
 ## Installation Guide
 1. download the zip file repo

@@ -32,7 +32,7 @@ Route::get('/under-construction', 'ProjectController@underConstruction')->name('
 Route::get('/proposal', 'ProjectController@proposal')->name('proposal');
 Route::get('/under-construction-detail', 'ProjectController@underConstructionDetail')->name('under-construction-detail');
 Route::get('/contact-us', 'ContactUsController@index')->name('contact-us');
-Route::post('send','ContactusController@send')->name('send');
+Route::post('send','ContactUsController@send')->name('send');
 
 Route::get('/project', 'ProjectController@index')->name('project');
 Route::get('/{slug}', 'ProjectController@projectDetail')->name('search.project');

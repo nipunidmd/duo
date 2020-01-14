@@ -1,8 +1,8 @@
 @extends('includes.master')
 
 @section('title', 'Home | Design Duo')
-@section('meta-description', 'duo design')
-@section('meta-keyword', 'duo design')
+@section('meta-description', 'Design Duo - Design duo predominately specialise in residential architecture, but is increasingly taking on community and commercial projects, with a special interest in eco-friendly boutique hotels. Our current projects are in different range in scale and proximity. We work locally and our architecture have an impact on improving the social life of local community.')
+@section('meta-keyword', 'designduo4u.com, designduo4u, design duo, design duo (pvt) ltd, architecture firm, Madhawa Premaratne, specialise in residential architecture, commercial, leisure, industrial, public architecture projects, architecture firm in Colombo')
 
 @push('moreCss')
 
@@ -64,12 +64,11 @@
     <div class="row text-center pb-4">
       <div class="col">
         <h2 class="font-weight-normal custom-font-size-1 mb-4 mt-4">Home</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur diam id urna lobortis, at consectetur odio euismod. Maecenas eleifend semper vulputate. Integer pellentesque massa et felis aliquam, a pharetra mauris bibendum. Nullam ullamcorper enim id aliquet convallis. Cras pellentesque, ipsum sollicitudin suscipit mollis, nibh nisi facilisis lorem.</p>
+        <p>Design duo predominately specialise in residential architecture, but is increasingly taking on community and commercial projects, with a special interest in eco-friendly boutique hotels. Our current projects are in different range in scale and proximity. We work locally and our architecture have an impact on improving the social life of local community.</p>
       </div>
     </div>
   </div>
 </section>
-<br>
 <br>
 @endsection
 @push('moreJs') 

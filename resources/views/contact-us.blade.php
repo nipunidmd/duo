@@ -2,7 +2,7 @@
 
 @section('title', 'Contact Us | Design Duo')
 @section('meta-description', 'duo design')
-@section('meta-keyword', 'duo design')
+@section('meta-keyword', 'contact us design duo, contact us design duo,  design duo address, design duo contact details ,  design duo contact number,  design duo email address, design duo location')
 
 @push('moreCss')
 

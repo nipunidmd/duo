@@ -1,8 +1,8 @@
 @extends('includes.master')
 
 @section('title', ' About Us | Design Duo')
-@section('meta-description', 'duo design')
-@section('meta-keyword', 'duo design')
+@section('meta-description', 'Design duo is an architecture firm based on Colombo, Srilanka headed by Archt.Madhawa Premaratne. We thrive on design challenges and are known for producing climatic responsive, highly resolved architecture for different client categories.')
+@section('meta-keyword', 'duo design about us')
 
 @push('moreCss')
 
